@@ -31,7 +31,9 @@ pip install -r requirements.txt
 
 ## Editamos la Conexion de la base de Datos
 Esto dentro de algun editor como vscode
+///////
 DENTO DEL ARCHIVO __init__.py ubicado dentro de la carpeta api
+///////
 Ubicamos la Contraseña de nuestro postgres en PASSWORD y en DATABASE_NAME  el nombre de la base de datos que creamos previemente
 
 ![imagen](https://github.com/user-attachments/assets/2b46ed79-b78f-4fdd-9931-031934691f79)
